@@ -34,6 +34,9 @@ STEP 1: DOWNLOADING
 
 STEP 2: INSTALLING
 (i) Open the downloaded Visual Studio file
+(ii)Several workloads are presented
+(iii) Select your relevant workloads. These can be added or removed later
+(iv) Click install button to begin installation process. Note this will take some time depending on your connection speed and the selected workloads
 
 
 
