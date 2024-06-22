@@ -43,6 +43,13 @@ STEP 2: INSTALLING
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
+
+   ## GIT FOR WINDOWS
+   (i) Open your browser and go to Git Downloads
+   (ii) Click on download for windows
+   (iii) Once downloaded, follow the steps to install
+   (iv) 
+
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
